@@ -1,0 +1,43 @@
+body{
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+  
+    
+}
+
+ul{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    list-style-type: none;
+    font-size: 30px;
+    
+    
+}
+
+div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    
+    
+    
+}
+
+img{
+    width: 250px;
+    
+}
+
+header{
+    background-color: darkgrey;
+    margin:-50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    color: cornflowerblue;
+}
